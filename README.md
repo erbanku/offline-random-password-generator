@@ -1,5 +1,5 @@
 # offline-random-password-generator
-![ShareX_2021-08-24_00-13-02](https://user-images.githubusercontent.com/79493862/130481359-6da79e30-4ffc-48c7-aea8-00e0c48ede2c.png)
+![ShareX_2021-09-07_11-48-00](https://user-images.githubusercontent.com/79493862/132281498-7b5bf842-41fa-47ff-9157-c17973a202ef.gif)
 #### About this offline-random-password-generator
 
 #### Modified from ExpressVPN Random Password Generator. All passwords are securely generated on your device only and are ***never sent across the internet.***
